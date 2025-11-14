@@ -48,4 +48,4 @@ python virtual_pet_simulator.py
 
 
 Interact: Follow the on-screen menu (Feed, Play, Check Status) to keep your pet, lucky, alive!
-Update README with project details
+
