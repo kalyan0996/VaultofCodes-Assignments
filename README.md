@@ -34,13 +34,7 @@ You need Python 3 installed on your system.
 
 Running the Simulator
 
-Clone the Repository (Optional, if using Git):
-
-git clone [Your Repository URL]
-cd VaultofCodes-Assignments/VirtualPetSimulator
-
-
-OR simply download the virtual_pet_simulator.py file.
+Cdownload the virtual_pet_simulator.py file.
 
 Execute the Script:
 
