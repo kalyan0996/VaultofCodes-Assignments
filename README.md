@@ -34,7 +34,7 @@ You need Python 3 installed on your system.
 
 Running the Simulator
 
-Cdownload the virtual_pet_simulator.py file.
+download the virtual_pet_simulator.py file.
 
 Execute the Script:
 
